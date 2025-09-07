@@ -14,8 +14,7 @@
 - [Project Structure](#project-structure)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 ```
 ## Overview
 This system enables users (patients, pharmacists, and admins) to interact online—patients can upload prescriptions, pharmacies can manage orders, and admins can oversee the process.
